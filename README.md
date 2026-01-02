@@ -1,4 +1,4 @@
-![](https://github.com/matindevelopment/matindevelopment/blob/main/header.gif?raw=true)
+![](https://raw.githubusercontent.com/matindevelopment/matindevelopment/main/header.gif)
 
 # Matin Development 👨‍💻
 
@@ -26,7 +26,7 @@ All my projects and code are available on [GitHub Repositories](https://github.c
 ---
 
 ## 📫 Contact Me
-- Email: `youremail@example.com`  
+- Email: `matin@hajiseftjani.ir`  
 - X:  [@MatinDeveloper](https://x.com/MatinDeveloper)  
 - LinkedIn: [matinhajiseftjani400](https://www.linkedin.com/in/matinhajiseftjani400)
 

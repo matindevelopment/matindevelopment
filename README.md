@@ -1,34 +1,34 @@
-# Matin Developer 👨‍💻
+# Matin Development 👨‍💻
 
-سلام! من **Matin** هستم، توسعه‌دهنده وب با تمرکز روی ساخت پروژه‌ها و ابزارهای سبک و کاربردی تحت وب. اینجا می‌توانید نمونه کارها و فعالیت‌های من در GitHub را ببینید.
-
----
-
-## 🔹 درباره من
-- توسعه‌دهنده Frontend و Backend با تمرکز روی HTML، CSS، JavaScript و PHP  
-- علاقه‌مند به پروژه‌های سبک، ابزارهای تحت وب و تجربه کاربری روان  
-- همیشه در حال یادگیری فناوری‌های جدید و بهبود مهارت‌ها  
+Hi! I'm **Matin**, a web developer focused on creating lightweight and practical web projects and tools. Here you can explore my work and activities on GitHub.
 
 ---
 
-## 🛠️ مهارت‌ها و تکنولوژی‌ها
+## 🔹 About Me
+- Frontend and Backend developer specializing in HTML, CSS, JavaScript, and PHP  
+- Passionate about lightweight web projects and smooth user experiences  
+- Always learning new technologies and improving my skills  
+
+---
+
+## 🛠️ Skills & Technologies
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Backend:** PHP  
-- **ابزارها:** Git, GitHub, GitHub Pages, VS Code  
+- **Tools:** Git, GitHub, GitHub Pages, VS Code  
 
 ---
 
-## 📂 دسترسی به مخزن‌ها
-تمام پروژه‌ها و کدها در [GitHub Repositories](https://github.com/matinhajiseftjani400) موجود است و می‌توانید آن‌ها را مشاهده یا مشارکت کنید.
+## 📂 Repositories
+All my projects and code are available on [GitHub Repositories](https://github.com/matinhajiseftjani400) for viewing or collaboration.
 
 ---
 
-## 📫 ارتباط با من
-- ایمیل: `matin@hajiseftjani.ir`  
-- ایکس: [@MatinDeveloper](https://x.com/MatinDeveloper)  
-- لینکدین: [Matin Development](https://www.linkedin.com/in/matinhajiseftjani400)
+## 📫 Contact Me
+- Email: `youremail@example.com`  
+- X:  [@MatinDeveloper](https://x.com/MatinDeveloper)  
+- LinkedIn: [Matin Development](https://www.linkedin.com/in/matinhajiseftjani400)
 
 ---
 
-## ⭐ حمایت
-اگر پروژه‌هایم برایتان مفید بود، لطفاً ⭐ به مخزن‌ها بدهید و آن‌ها را با دوستانتان به اشتراک بگذارید!
+## ⭐ Support
+If you find my projects useful, please ⭐ the repositories and share them with your friends!

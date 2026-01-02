@@ -1,4 +1,4 @@
-![](header.gif)
+![](https://github.com/matindevelopment/matindevelopment/blob/main/header.gif?raw=true)
 
 # Matin Development 👨‍💻
 
@@ -21,7 +21,7 @@ Hi! I'm **Matin**, a web developer focused on creating lightweight and practical
 ---
 
 ## 📂 Repositories
-All my projects and code are available on [GitHub Repositories](https://github.com/matinhajiseftjani400) for viewing or collaboration.
+All my projects and code are available on [GitHub Repositories](https://github.com/matinhajiseftjani400?tab=repositories) for viewing or collaboration.
 
 ---
 

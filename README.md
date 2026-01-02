@@ -1,85 +1,34 @@
-# SnapBridge 🌉  
-### Live Web Projects by Matin
+# Matin Developer 👨‍💻
 
-Welcome to **SnapBridge** — a collection of lightweight, browser-based web tools built for fast and practical use.
-
-This GitHub Pages site hosts **live demos** of SnapBridge web projects.  
-All showcased projects are actively developed and maintained in the main repositories.
+سلام! من **Matin** هستم، توسعه‌دهنده وب با تمرکز روی ساخت پروژه‌ها و ابزارهای سبک و کاربردی تحت وب. اینجا می‌توانید نمونه کارها و فعالیت‌های من در GitHub را ببینید.
 
 ---
 
-## 🌐 Live Demo
-
-👉 https://matindevelopment.github.io/snapbridge
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ3em5qZ3Jxem9oemVnZHBwZTZrN2pndzE3N3F6ZTN3eGJ5d2d3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif"
-       alt="Web app live interaction" width="620">
-</p>
+## 🔹 درباره من
+- توسعه‌دهنده Frontend و Backend با تمرکز روی HTML، CSS، JavaScript و PHP  
+- علاقه‌مند به پروژه‌های سبک، ابزارهای تحت وب و تجربه کاربری روان  
+- همیشه در حال یادگیری فناوری‌های جدید و بهبود مهارت‌ها  
 
 ---
 
-## 🚀 About SnapBridge
-
-**SnapBridge** focuses on instant interaction between devices directly in the browser.
-
-- No accounts  
-- No installation  
-- No unnecessary complexity  
-
-Just open the page, connect, and use the tool.
-
-This repository exists solely as a **live environment**.  
-Source code and documentation live in the main SnapBridge repositories.
+## 🛠️ مهارت‌ها و تکنولوژی‌ها
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP  
+- **ابزارها:** Git, GitHub, GitHub Pages, VS Code  
 
 ---
 
-## ✨ What You’ll Find Here
-
-- ⚡ Live web demos hosted on GitHub Pages
-- 📸 Instant image transfer tools
-- 🔢 Secure, session-based connections
-- 📱 Mobile & desktop friendly interfaces
-- 🧩 Minimal, dependency-free implementations
+## 📂 دسترسی به مخزن‌ها
+تمام پروژه‌ها و کدها در [GitHub Repositories](https://github.com/matinhajiseftjani400) موجود است و می‌توانید آن‌ها را مشاهده یا مشارکت کنید.
 
 ---
 
-## 🧱 Technology Stack
-
-- HTML5 / CSS3
-- Vanilla JavaScript
-- PHP (for backend-enabled projects)
-- GitHub Pages (live hosting)
+## 📫 ارتباط با من
+- ایمیل: `matin@hajiseftjani.ir`  
+- ایکس: [@MatinDeveloper](https://x.com/MatinDeveloper)  
+- لینکدین: [Matin Development](https://www.linkedin.com/in/matinhajiseftjani400)
 
 ---
 
-## 📁 Main Repository
-
-👉 Source code & development:  
-https://github.com/matindevelopment/snapbridge
-
----
-
-## 👨‍💻 About the Developer
-
-Hi, I’m **Matin** — a web developer focused on building **clean, fast, and practical web solutions**.
-
-I enjoy working on projects that emphasize simplicity, performance, and real usability over unnecessary complexity.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qZWJtMGp3b2M4bW52cm5lZXR6OHF0Nnh5OHl2d3M4N2R6cHNlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif"
-       alt="Developer coding workflow" width="420">
-</p>
-
-GitHub: https://github.com/matindevelopment
-
----
-
-## 📄 License
-
-All SnapBridge projects are released under the **MIT License**,  
-unless stated otherwise in their individual repositories.
-
----
-
-⭐ If you find SnapBridge useful, consider starring the project on GitHub.
+## ⭐ حمایت
+اگر پروژه‌هایم برایتان مفید بود، لطفاً ⭐ به مخزن‌ها بدهید و آن‌ها را با دوستانتان به اشتراک بگذارید!
